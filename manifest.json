@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "UFV Course Outline Finder",
   "version": "1.0.0",
   "icons": {"128": "ufv-logo1.png"},
@@ -7,7 +7,7 @@
       "matches": ["<all_urls>"],
       "js": ["popup.js"]
 }],
-"action": {
+"browser_action": {
   "default_popup": "popup.html",
   "default_icon": "ufv-logo1.png",
   "default_title": "UFV Course Outline Finder"

@@ -1,0 +1,60 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+.change-theme {
+    color: var(--text-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.change-theme:hover {
+    color: var(--title-color);
+}
+#top-container {
+    background-color: var(--body-color);
+    display: flex;
+    align-items: center;
+    border: 0.5px solid #dadada;
+}
+#header-title {
+    color: var(--title-color);
+    font-weight: 600;
+    font-size: 15px;
+}
+.icon_logo {
+    width: 40px;
+    height: 40px;
+    margin: 0 12px 0 12px;
+}
+.bug_logo{
+    width: 35px;
+    height: 35px;
+}
+#main_logo {
+    width: 30px;
+    height: 30px;
+    margin: 0 12px 0 12px;
+}
+span{
+    color: var(--text-color);
+}
+.grid_display{
+    background-color: var(--container-color);
+}
+.grid_display .icon_text_container {
+    width: 31%;
+    display: inline-flex;
+    text-align: center;
+    flex-direction: column;
+}
+.grid_display .icon_text_container span{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+}
+.row_container {
+    padding: 10px 10px;
+}

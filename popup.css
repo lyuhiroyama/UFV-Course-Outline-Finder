@@ -6,6 +6,9 @@ html, body {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
 }
+.icon {
+    color: black;
+}
 #top-container {
     display: flex;
     align-items: center;
@@ -14,13 +17,14 @@ html, body {
 #h2logo {
     width: 30px;
     height: 30px;
-    margin: 0 12px 0 12px;
+    margin: 0 4px 0 0;
 }
 #header-title {
     font-weight: 600;
     font-size: 15px;
 }
 #searchbox-container {
+    background-color: var(--container-color);
     height: 50px;
     display: flex;
     align-items: center;

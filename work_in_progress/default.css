@@ -1,0 +1,23 @@
+
+html, body {
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    background-color: var(--body-color);
+}
+#top-container {
+
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 300px;
+    border: none;
+    justify-content: center;
+}
+#header-title {
+    color: var(--title-color);
+    font-weight: 600;
+    font-size: 15px;
+}
+.icon {
+    color: black;
+}

@@ -1,3 +1,4 @@
+# UFV Course Outline Finder Chrome Extension
 
  Input course code for a link to corresponding course outline files!
 

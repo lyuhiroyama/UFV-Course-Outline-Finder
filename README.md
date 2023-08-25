@@ -1,5 +1,5 @@
-# UFV-Course-Outline-Finder-ChromeExtension
- Input course code for a link to corresponding course outline files
+
+ Input course code for a link to corresponding course outline files!
 
  [Link to the app on Chrome Web Store](https://chrome.google.com/webstore/detail/ufv-course-outline-finder/mndjamfkhbpmaejlgmmmimpanhhhfkfd?hl=en)
 
